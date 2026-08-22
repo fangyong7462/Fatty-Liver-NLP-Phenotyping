@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated publication."
+title: "Fatty-Liver-NLP-Phenotyping"
+type: software
+version: 1.0.0
+date-released: 2026-08-22
+license: MIT
+authors:
+  - family-names: Fang
+    given-names: Yong
+    affiliation: Shanghai Health and Medical Center
+
+  - family-names: Shi
+    given-names: Liqun
+    affiliation: Shanghai Health and Medical Center
+
+  - family-names: Huang
+    given-names: Jie
+    affiliation: Shanghai Health and Medical Center
+
+  - family-names: Liu
+    given-names: Chunxing
+    affiliation: Shanghai Health and Medical Center
+
+  - family-names: Xu
+    given-names: Zhiyue
+    affiliation: Shanghai Health and Medical Center
+
+repository-code: "https://github.com/fangyong7462/Fatty-Liver-NLP-Phenotyping"
+keywords:
+  - hepatic steatosis
+  - natural language processing
+  - clinical phenotyping
+  - ultrasound reports
+  - health examination
+  - rule-based NLP
