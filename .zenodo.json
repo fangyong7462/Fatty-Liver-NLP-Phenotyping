@@ -1,0 +1,40 @@
+{
+  "title": "Fatty-Liver-NLP-Phenotyping",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Fang, Yong",
+      "affiliation": "Shanghai Health and Medical Center"
+    },
+    {
+      "name": "Shi, Liqun",
+      "affiliation": "Shanghai Health and Medical Center"
+    },
+    {
+      "name": "Huang, Jie",
+      "affiliation": "Shanghai Health and Medical Center"
+    },
+    {
+      "name": "Liu, Chunxing",
+      "affiliation": "Shanghai Health and Medical Center"
+    },
+    {
+      "name": "Xu, Zhiyue",
+      "affiliation": "Shanghai Health and Medical Center"
+    }
+  ],
+  "description": "Research software accompanying a JMIR Medical Informatics manuscript on ultrasound-reported hepatic steatosis phenotyping and associated metabolic profiles in health examination records. The release contains the exact rule-based NLP implementation used in the study, rule dictionaries and lexicons, synthetic examples, tests, and reproducible aggregate-analysis code. Yong Fang and Liqun Shi contributed equally to the associated research. No patient-level data, identifiers, or real clinical narratives are included. The software is provided for research reproducibility and is not a clinical diagnostic system.",
+  "keywords": [
+    "hepatic steatosis",
+    "natural language processing",
+    "clinical phenotyping",
+    "ultrasound reports",
+    "health examination",
+    "rule-based NLP",
+    "clinical informatics"
+  ]
+}
