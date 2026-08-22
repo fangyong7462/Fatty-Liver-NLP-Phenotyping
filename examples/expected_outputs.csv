@@ -1,0 +1,16 @@
+﻿test_id,synthetic_text,expected_stage,rationale
+normal_default,No hepatic abnormality identified,Normal,default Normal
+chinese_negative,未见明显脂肪肝,Mild,mild/generic precedes negation in frozen priority
+english_negative,No evidence of fatty liver,Normal,explicit English negation
+chinese_uncertainty,考虑脂肪肝,Trend,Chinese uncertainty
+english_uncertainty,Possible fatty liver,Trend,supported English uncertainty
+question_mark,脂肪肝?,Trend,question-mark uncertainty
+chinese_mild,轻度脂肪肝,Mild,explicit Chinese mild
+chinese_generic,脂肪肝,Mild,unqualified Chinese generic
+english_generic,Fatty liver,Normal,English generic is not supported by the source pattern
+chinese_moderate,中度脂肪肝,Moderate,explicit Chinese moderate
+english_moderate,Moderate fatty liver,Moderate,supported English moderate
+chinese_severe,重度脂肪肝,Severe,explicit Chinese severe
+english_severe,Severe fatty liver,Severe,supported English severe
+compound_severe,轻度脂肪肝，重度脂肪肝,Severe,severe priority
+compound_trend,脂肪肝，可能脂肪肝,Trend,trend priority
